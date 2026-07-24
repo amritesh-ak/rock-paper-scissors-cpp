@@ -1,4 +1,4 @@
-# 🎮 Rock Paper Scissors (C++)
+# 🎮 Rock Paper Scissors (C++) !
 
 My first C++ mini project.
 

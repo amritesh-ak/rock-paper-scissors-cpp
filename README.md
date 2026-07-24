@@ -2,7 +2,7 @@
 
 My first C++ mini project.
 
-## Features
+## Features ok
 
 - Play Rock Paper Scissors against the computer
 - Random computer choice
